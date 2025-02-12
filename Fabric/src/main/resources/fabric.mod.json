@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "endportalrecipe",
-  "version": "5.5",
+  "version": "5.7",
 
   "name": "End Portal Recipe",
   "description": "Makes the end portal craftable and available in survival via a recipe and adds an extra dragon egg drop to create it. The portal can be picked up via silk touch.",
@@ -23,7 +23,7 @@
     "fabric": "*",
     "minecraft": ">=1.20",
     "java": ">=17",
-    "collective": ">=7.78"
+    "collective": ">=7.91"
   },
 
   "custom": {
@@ -45,9 +45,11 @@
 	  " Andrean Olgo",
 	  " aternosorg",
 	  " Cherriesaurus",
+	  " David Sanchez",
+	  " drdog111",
 	  " Michael W. S.",
-	  " Nahuel Fernandez",
-	  " Shana Gitnick",
-	  " Tyler Behl"
+	  " t128",
+	  " Tyler Behl",
+	  " XAgent"
   ]
 }
