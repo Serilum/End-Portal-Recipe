@@ -5,9 +5,7 @@ import net.minecraft.world.entity.Entity;
 import net.neoforged.neoforge.event.entity.living.LivingDropsEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;
 import net.neoforged.bus.api.SubscribeEvent;
-import net.neoforged.fml.common.EventBusSubscriber;
 
-@EventBusSubscriber
 public class NeoForgeEndPortalEvent {
 	@SubscribeEvent
 	public static void mobItemDrop(LivingDropsEvent e) {
