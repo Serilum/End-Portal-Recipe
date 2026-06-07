@@ -6,7 +6,7 @@ logoFile="icon.png"
 
 [[mods]]
 modId="endportalrecipe"
-version="5.7"
+version="5.8"
 displayName="End Portal Recipe"
 displayURL="https://serilum.com/mod/end-portal-recipe"
 authors="Rick South"
@@ -14,7 +14,7 @@ description='''Makes the end portal craftable and available in survival via a re
 '''
 credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
 
-Alister, Andrean Olgo, aternosorg, Cherriesaurus, Michael W. S., t128, Tyler Behl, William Innes, XAgent, ตัวตรึง พระนคร   
+Andrean Olgo, aternosorg, Cherriesaurus, Linda Jansen, Michelle Smith, MWS, Tyler Behl   
 
 If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
 '''
@@ -22,7 +22,7 @@ If you would like to contribute too, check out https://serilum.com/donate. Appre
 [[dependencies.endportalrecipe]]
     modId="collective"
     type="required"
-    versionRange="[8.13,)"
+    versionRange="[8.25,)"
     ordering="NONE"
     side="BOTH"
 
