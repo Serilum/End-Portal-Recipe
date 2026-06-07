@@ -61,7 +61,7 @@ public class EndPortalEvent {
 		ItemFunctions.giveOrDropItemStack(playertodrop, egg);
 
 		if (ConfigHandler.sendMessageOnExtraDragonEggDrop) {
-			MessageFunctions.sendMessage(playertodrop, "An extra dragon egg has dropped at your position!", ChatFormatting.DARK_GREEN);
+			MessageFunctions.sendTranslatableMessage(playertodrop, "collective.endportalrecipe.message.extradragonegg", ChatFormatting.DARK_GREEN);
 		}
 	}
 	
