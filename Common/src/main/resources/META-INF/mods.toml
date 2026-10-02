@@ -1,28 +1,28 @@
 modLoader="javafml"
 loaderVersion="*"
-license="All rights reserved"
+license="All Rights Reserved"
 issueTrackerURL="https://github.com/Serilum/.issue-tracker/labels/Mod:%20End%20Portal%20Recipe"
 logoFile="icon.png"
 
 [[mods]]
 modId="endportalrecipe"
-version="5.8"
+version="5.9"
 displayName="End Portal Recipe"
 displayURL="https://serilum.com/mod/end-portal-recipe"
-authors="Rick South"
+authors="Serilum"
 description='''Makes the end portal craftable and available in survival via a recipe and adds an extra dragon egg drop to create it. The portal can be picked up via silk touch.
 '''
 credits='''Thank you very much to my Membership sponsors for supporting the development of this mod:  
 
-Andrean Olgo, aternosorg, Cherriesaurus, Linda Jansen, Michelle Smith, MWS, Tyler Behl   
+Andrean Olgo, AnyankaT, aternosorg, Cherriesaurus, Linda Jansen, MWS, Tyler Behl   
 
-If you would like to contribute too, check out https://serilum.com/donate. Appreciate it! <3   
+If you would like to contribute too, check out https://serilum.com/donate Appreciate it! <3   
 '''
 
 [[dependencies.endportalrecipe]]
     modId="collective"
     mandatory=true
-    versionRange="[8.25,)"
+    versionRange="[8.40,)"
     ordering="NONE"
     side="BOTH"
 

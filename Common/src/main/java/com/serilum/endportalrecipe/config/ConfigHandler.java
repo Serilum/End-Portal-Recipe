@@ -1,7 +1,7 @@
-package com.natamus.endportalrecipe.config;
+package com.serilum.endportalrecipe.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.endportalrecipe.util.Reference;
+import com.serilum.endportalrecipe.util.Reference;
 
 import java.util.Arrays;
 import java.util.HashMap;
