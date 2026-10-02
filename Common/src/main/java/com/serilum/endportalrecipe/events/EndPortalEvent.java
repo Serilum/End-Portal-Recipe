@@ -1,10 +1,10 @@
-package com.natamus.endportalrecipe.events;
+package com.serilum.endportalrecipe.events;
 
 import com.natamus.collective.functions.BlockFunctions;
 import com.natamus.collective.functions.ItemFunctions;
 import com.natamus.collective.functions.MessageFunctions;
 import com.natamus.collective.services.Services;
-import com.natamus.endportalrecipe.config.ConfigHandler;
+import com.serilum.endportalrecipe.config.ConfigHandler;
 import net.minecraft.ChatFormatting;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
