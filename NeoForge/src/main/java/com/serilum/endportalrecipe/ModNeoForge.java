@@ -1,10 +1,10 @@
-package com.natamus.endportalrecipe;
+package com.serilum.endportalrecipe;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
-import com.natamus.endportalrecipe.neoforge.config.IntegrateNeoForgeConfig;
-import com.natamus.endportalrecipe.neoforge.events.NeoForgeEndPortalEvent;
-import com.natamus.endportalrecipe.util.Reference;
+import com.serilum.endportalrecipe.neoforge.config.IntegrateNeoForgeConfig;
+import com.serilum.endportalrecipe.neoforge.events.NeoForgeEndPortalEvent;
+import com.serilum.endportalrecipe.util.Reference;
 import net.neoforged.neoforge.common.NeoForge;
 import net.neoforged.bus.api.IEventBus;
 import net.neoforged.fml.ModLoadingContext;

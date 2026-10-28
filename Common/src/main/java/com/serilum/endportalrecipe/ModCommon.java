@@ -1,6 +1,6 @@
-package com.natamus.endportalrecipe;
+package com.serilum.endportalrecipe;
 
-import com.natamus.endportalrecipe.config.ConfigHandler;
+import com.serilum.endportalrecipe.config.ConfigHandler;
 
 public class ModCommon {
 

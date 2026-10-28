@@ -1,7 +1,7 @@
-package com.natamus.endportalrecipe.forge.config;
+package com.serilum.endportalrecipe.forge.config;
 
 import com.natamus.collective.config.DuskConfig;
-import com.natamus.endportalrecipe.util.Reference;
+import com.serilum.endportalrecipe.util.Reference;
 import net.minecraftforge.client.ConfigScreenHandler;
 import net.minecraftforge.fml.ModLoadingContext;
 

@@ -1,6 +1,6 @@
-package com.natamus.endportalrecipe.neoforge.events;
+package com.serilum.endportalrecipe.neoforge.events;
 
-import com.natamus.endportalrecipe.events.EndPortalEvent;
+import com.serilum.endportalrecipe.events.EndPortalEvent;
 import net.minecraft.world.entity.Entity;
 import net.neoforged.neoforge.event.entity.living.LivingDropsEvent;
 import net.neoforged.neoforge.event.entity.player.PlayerInteractEvent;

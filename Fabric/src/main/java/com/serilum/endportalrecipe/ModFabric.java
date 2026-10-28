@@ -1,11 +1,11 @@
-package com.natamus.endportalrecipe;
+package com.serilum.endportalrecipe;
 
 import com.natamus.collective.check.RegisterMod;
 import com.natamus.collective.check.ShouldLoadCheck;
 import com.natamus.collective.fabric.callbacks.CollectiveBlockEvents;
 import com.natamus.collective.fabric.callbacks.CollectiveEntityEvents;
-import com.natamus.endportalrecipe.events.EndPortalEvent;
-import com.natamus.endportalrecipe.util.Reference;
+import com.serilum.endportalrecipe.events.EndPortalEvent;
+import com.serilum.endportalrecipe.util.Reference;
 import net.fabricmc.api.ModInitializer;
 import net.minecraft.core.BlockPos;
 import net.minecraft.core.Direction;
